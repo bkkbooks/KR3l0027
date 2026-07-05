@@ -1,13 +1,13 @@
 canonical_identifier: bkk:krp/KR3l0027/krp/v1/juan/0
 seq: 0
 front:
-  text: 丞相魏公談訓目録
-  hash: sha256:411eb3ad2b29a281bbe1b1f786aacf048d91131b4ce4fc17ffeffffd4276fe63
+  text: 丞相魏公譚訓目録
+  hash: sha256:59a06e27d9ac83503059166412ee78d2ae6c700a009ca8d056d90ba3f42255af
   markers:
   - {type: page-break, offset: 0, content: '', id: KR3l0027_SBCK_000-1a}
 body:
-  text: 長孫左朝請大夫象先編第一卷國論國政第二卷家世第三卷家學家訓行已第四卷文學詩什第五卷前言政事第六卷親族外姻師友知人第七卷善言鍳裁遊從荐舉第八卷恬淡器玩飲膳第九卷道釋神祠疾醫卜相第十卷雜事丞相魏公談訓目録
-  hash: sha256:d297342eae079ae85cec1120d67eaae87f7c44546f83c8256e28e332bbd21dc6
+  text: 長孫左朝請大夫象先編第一卷國論國政第二卷家世第三卷家學家訓行已第四卷文學詩什第五卷前言政事第六卷親族外姻師友知人第七卷善言鍳裁㳺從荐舉第八卷恬淡器玩飲膳第九卷道釋神祠疾毉卜相第十卷雜事丞相魏公譚訓目錄
+  hash: sha256:cbcb66d3db18ac68409b04953fb1f7f9b20d982af14c22a86445c84891dc9968
 metadata:
   title: 丞相魏公譚訓
   edition:
@@ -17,4 +17,4 @@ metadata:
   source:
     repository: kanripo
     path: KR3l0027/KR3l0027_000.txt
-hash: sha256:b6333c5cfe55a9e331250f1fdd7eb01fbe32ff7fd281bdd23e055dcffe8191e5
+hash: sha256:050af0afd623121b8fefdc3e886858939178bd39c78db394904aca9eb69f32ec
